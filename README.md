@@ -1,5 +1,5 @@
 # Introduction
-This a simple 2D Snake game created using Unity3D. I am sorry for giving it a silly name -"Snake Game". I want to keep this project as it is as it was a big milestone for me. But I am sure you will enjoy playing it while listening to the Pacman music and its attractive arts. 
+This a simple 2D Snake game created using Unity3D. I am sorry for giving it a silly name -"Snake Game". I want to keep this project as it is as it was a big milestone for me. But I am sure you will enjoy playing it with the Pacman music as its background song and attractive arts. 
 
 # Inspiration 
 I created my first snake game in c++ when I was in my secondary school. But that used the old discontinued Borland turbo c++. It was a console application and that too without any graphics. When I came to know about the Unity game engine, just after doing a  simple Roll-a-Ball @ https://unity3d.com/learn/tutorials/s/roll-ball-tutorial, I was able to create this game. Thanks to stackoverflow, unity docs and its outstanding tutorials and my determination that helped me completing this game in just 4 days!
