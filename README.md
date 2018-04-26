@@ -1,6 +1,8 @@
 # Introduction
 This a simple 2D Snake game created using Unity3D. I am sorry for giving it a silly name -"Snake Game". I want to keep this project as it is as it was a big milestone for me. But I am sure you will enjoy playing it with the Pacman music as its background song and attractive arts. 
 
+![Main Menu](https://github.com/ShubhamK2799/My-First-Game-In-Unity/blob/master/Images/Main%20Menu.png?raw=true "Main Menu")
+
 # Inspiration 
 I created my first snake game in c++ when I was in my secondary school. But that used the old discontinued Borland turbo c++. It was a console application and that too without any graphics. When I came to know about the Unity game engine, just after doing a  simple Roll-a-Ball @ https://unity3d.com/learn/tutorials/s/roll-ball-tutorial, I was able to create this game. Thanks to stackoverflow, unity docs and its outstanding tutorials and my determination that helped me completing this game in just 4 days!
 
@@ -15,4 +17,8 @@ But I also wanted to add two categories of snakes to add some choices for the us
 I found problems in applying the time bound approach for creating the two different types of snakes. 
 I tried using the second approach and with a very small adjustment I was able to create the two different snakes.
 
+# ScreenShots
+![Screen Shot 1](https://github.com/ShubhamK2799/My-First-Game-In-Unity/blob/master/Images/Screenshot1.png?raw=true "Screen Shot 1")
+![Snake Type 1](https://github.com/ShubhamK2799/My-First-Game-In-Unity/blob/master/Images/Snake%20Type%201.png?raw=true "Snake Type 1")
+![Snake Type 2](https://github.com/ShubhamK2799/My-First-Game-In-Unity/blob/master/Images/Snake%20Type%202.png?raw=true "Snake Type 2")
 
