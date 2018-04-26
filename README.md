@@ -15,4 +15,10 @@ But I also wanted to add two categories of snakes to add some choices for the us
 I found problems in applying the time bound approach for creating the two different types of snakes. 
 I tried using the second approach and with a very small adjustment I was able to create the two different snakes.
 
+# Few Screen Shots and Assets
+![Snake Type 2](https://github.com/ShubhamK2799/My-First-Game-In-Unity/blob/master/Menu.png?raw=true "Main Menu")
+![Snake Type 1](https://github.com/ShubhamK2799/My-First-Game-In-Unity/blob/master/Snake%20Type%201.png?raw=true "Snake Type 1 ")
+![Snake Type 2](https://github.com/ShubhamK2799/My-First-Game-In-Unity/blob/master/Snake%20Type%202.png?raw=true "Snake Type 2")
+
+
 
