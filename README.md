@@ -1,5 +1,5 @@
 # Introduction
-This a simple 2D Snake game created using Unity3D. I am sorry for giving it a silly name -"Snake Game". I want to keep this project as it is as it was a big milestone for me. But I am sure you will enjoy playing it with the Pacman music as its background song and attractive arts. 
+This a simple 2D Snake game created using Unity3D. You will enjoy playing it with the Pacman music as its background song and simple yet attractive UI. 
 
 ![Main Menu](https://github.com/ShubhamK2799/My-First-Game-In-Unity/blob/master/Images/Main%20Menu.png?raw=true "Main Menu")
 
